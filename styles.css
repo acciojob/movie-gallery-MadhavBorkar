@@ -2,6 +2,18 @@
 	width: 100px; 
 	height: 100px
 }
+.col-sm-2{
+	width: 100px; 
+	height: 100px
+}
+.col-sm-4{
+	width: 100px; 
+	height: 100px
+}
+.col-sm-12{
+	width: 100px; 
+	height: 100px
+}
 .row{
 	display:flex;
 	justify-content:center;
